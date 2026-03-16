@@ -44,14 +44,14 @@ My analysis involved training and comparing Gaussian Naive Bayes, decision tree,
 - # Data Maniputlation & Analysis: 
     Pandas
 - # Machine Learning:
-    scikit-learning (for `train_test_split`)
-    GaussianNB
-    Decision Tree Classifier
-    Logistic Regression 
-    Accuracy score
-    Confusion matric
+    scikit-learning (for `train_test_split`),
+    GaussianNB,
+    Decision Tree Classifier,
+    Logistic Regression,
+    Accuracy score,
+    Confusion matric,
 - # Data Visualization:
-    matplotlib
+    matplotlib,
     seaborn
 - # Data Source:
     ucimlrepo library for fetching the UCI dataset.
